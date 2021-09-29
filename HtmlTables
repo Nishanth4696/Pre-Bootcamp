@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="style.css">
+         </head>
+    <body>
+    <table border="1"> 
+       <tr>
+           <th>FirstName</th>
+           <th>LastName</th>
+           <th>Age</th>
+       </tr>
+       <tr>
+           <td>John</td>
+           <td>Doe</td>
+           <td>78</td>
+       </tr>
+       <tr>
+        <td>Joe</td>
+        <td>Doe</td>
+        <td>56</td>
+    </tr>
+    <tr>
+        <td>Jenny</td>
+        <td>Doe</td>
+        <td>38</td>
+    </tr>
+    <tr>
+        <td>Eve</td>
+        <td>Jack</td>
+        <td>38</td>
+    </tr>
+    <tr>
+        <td>MS</td>
+        <td>Dhoni</td>
+        <td>46</td>
+    </tr>
+    <tr>
+        <td>Sachin</td>
+        <td>Tendulkar</td>
+        <td>49</td>
+    </tr>
+
+   </table>
+
+    </body>
+</html>
